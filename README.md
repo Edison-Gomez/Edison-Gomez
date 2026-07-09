@@ -1,77 +1,50 @@
-# 👋 Hi there, I'm Edison Gómez
+<div align="center">
 
-<p align="center">
-  <strong>Full Stack Web Developer</strong><br>
-  Passionate about building modern, scalable and efficient web applications.
-</p>
+# 👋 Hi, I'm Edison Gómez
 
----
+### Full Stack Web Developer
 
-## 🚀 About Me
+Building modern, scalable and high-performance web applications.
 
-💻 Full Stack Web Developer from Colombia 🇨🇴
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Laravel+Developer;PHP+%7C+JavaScript+%7C+Python;Always+Learning+New+Technologies;Building+Modern+Web+Applications" />
 
-🎓 Systems Engineering & Software Development Student
-
-🌱 Currently improving my skills in Laravel, PHP, JavaScript and Cloud Computing.
-
-🎯 Focused on building high-quality web applications and business solutions.
+</div>
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 About Me
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=php,js,python,kotlin,html,css,mysql" />
-</p>
-
-### Frameworks & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,git,github,vscode,bootstrap" />
-</p>
+- 💻 Full Stack Web Developer
+- 🎓 Systems Engineering & Software Development Student
+- 🌎 Based in Bogotá, Colombia
+- 📚 Currently learning Cloud Computing, Laravel and Software Architecture
+- 🎯 Passionate about building modern web applications and business solutions
 
 ---
 
-## 📚 Currently Learning
-
-- Laravel Advanced
-- REST APIs
-- React
-- Docker
-- Cloud Computing
-- Software Architecture
-
----
-
-## 📌 Featured Projects
-
-🚧 Coming Soon...
-
-- Business Landing Page
-- Inventory Management System
-- E-commerce Platform
-- Portfolio Website
-- Authentication System
-- REST API with Laravel
-
----
-
-## 📊 GitHub Stats
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Edison-Gomez&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edison-Gomez&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=laravel,php,js,python,kotlin,html,css,mysql,git,github,vscode,bootstrap"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edison-Gomez&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edison-Gomez&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -81,20 +54,48 @@
 
 ---
 
-## 📫 Connect With Me
+# 🚀 Featured Projects
 
-📧 Email: **gomez1ledison@gmail.com**
+Coming Soon...
 
-💼 LinkedIn *(Coming Soon)*
-
-🌐 Portfolio *(Coming Soon)*
-
----
-
-## 💡 Quote
-
-> "Great software is built one commit at a time."
+- 🌐 Portfolio Website
+- 🛒 Ecommerce Platform
+- 📦 Inventory Management System
+- 🏢 Business Landing Page
+- 🔐 Authentication System
+- 📊 Admin Dashboard
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 🌱 Currently Learning
+
+- Laravel
+- REST APIs
+- React
+- Docker
+- Cloud Computing
+- Clean Architecture
+
+---
+
+# 📫 Contact
+
+📧 **Email**
+
+> edisonsantiagogomezanzola@gmail.com
+
+💼 **LinkedIn**
+
+Coming Soon
+
+🌐 **Portfolio**
+
+Coming Soon
+
+---
+
+<div align="center">
+
+### ⭐ "Code. Learn. Build. Improve."
+
+</div>
