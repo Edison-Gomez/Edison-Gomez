@@ -1,69 +1,58 @@
 <div align="center">
 
-# Edison Gómez
+# Edison Santiago Gómez
 
 ### Full Stack Web Developer
 
-Building modern software with clean architecture, scalable solutions and user-focused experiences.
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Laravel+Developer;PHP+%7C+JavaScript+%7C+Python;Engineering+Digital+Solutions;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Laravel+Developer;Full+Stack+Developer;Always+Learning+New+Technologies" />
 
 </div>
 
 ---
 
-# 💻 About Me
+## 🌐 Connect
 
-```yaml
-Name: Edison Gómez
+<p align="center">
 
-Location: Bogotá, Colombia
+<a href="https://linkedin.com/in/TU-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-Role: Full Stack Web Developer
+<a href="mailto:gomez1ledison@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-Education: Systems Engineering & Software Development
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel"/>
+</a>
 
-Focus:
-  - Web Applications
-  - Business Systems
-  - REST APIs
-  - Database Design
-
-Current Goal:
-  Build scalable software that solves real business problems.
-```
+</p>
 
 ---
 
-# ⚙ Tech Stack
+# 💻 Languages
 
-### Backend
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=laravel,php,python,java"/>
+<img src="https://skillicons.dev/icons?i=php,js,python,java,kotlin,html,css,mysql"/>
 
 </p>
 
-### Frontend
+---
 
-<p>
+# ⚙ Frameworks
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+<p align="center">
 
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=laravel,bootstrap"/>
 
 </p>
 
-### Tools
+---
 
-<p>
+# 🛠 Tools
+
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
@@ -71,87 +60,62 @@ Current Goal:
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Edison-Gomez&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Edison-Gomez&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edison-Gomez&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edison-Gomez&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Edison-Gomez&theme=github-dark&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Edison-Gomez&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🚀 Current Projects
+# 🔥 GitHub Streak
 
-🚧 Building professional software solutions.
+<p align="center">
 
-Upcoming repositories:
+<img src="https://streak-stats.demolab.com?user=Edison-Gomez&theme=transparent&hide_border=true"/>
 
-- Portfolio Website
-- Inventory Management System
-- CRM System
-- Restaurant Management
-- E-Commerce Platform
-- REST API Laravel
-- Admin Dashboard
-- Authentication System
+</p>
 
 ---
 
-# 🌱 Currently Learning
+# 🏆 Achievements
 
-✔ Laravel Advanced
+<p align="center">
 
-✔ React
+<img src="https://github-profile-trophy.vercel.app/?username=Edison-Gomez&theme=algolia&no-frame=true&margin-w=15"/>
 
-✔ Docker
+</p>
+
+---
+
+# 🚀 Current Focus
+
+✔ Laravel Development
+
+✔ REST APIs
+
+✔ Business Applications
 
 ✔ Cloud Computing
 
-✔ Software Architecture
-
-✔ Clean Code
+✔ Clean Architecture
 
 ---
 
-# 🎯 Engineering Principles
-
-> Build software that is scalable.
-
-> Write code that is maintainable.
-
-> Design solutions focused on users.
-
-> Never stop learning.
-
----
-
-# 📫 Contact
-
-📧 **Email**
-
-gomez1ledison@gmail.com
-
-💼 LinkedIn
-
-Coming Soon
-
-🌐 Portfolio
-
-Coming Soon
-
----
+# 💬 Quote
 
 <div align="center">
 
-## Engineering the Future, One Line of Code at a Time.
+*"Engineering is the art of solving problems with logic, creativity and code."*
 
 </div>
