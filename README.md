@@ -112,10 +112,3 @@
 
 ---
 
-# 💬 Quote
-
-<div align="center">
-
-*"Engineering is the art of solving problems with logic, creativity and code."*
-
-</div>
