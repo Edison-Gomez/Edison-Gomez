@@ -1,80 +1,136 @@
 <div align="center">
 
-# 👋 Hi, I'm Edison Gómez
+# Edison Gómez
 
 ### Full Stack Web Developer
 
-Building modern, scalable and high-performance web applications.
+Building modern software with clean architecture, scalable solutions and user-focused experiences.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Laravel+Developer;PHP+%7C+JavaScript+%7C+Python;Always+Learning+New+Technologies;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Laravel+Developer;PHP+%7C+JavaScript+%7C+Python;Engineering+Digital+Solutions;Always+Learning+Something+New" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💻 About Me
 
-- 💻 Full Stack Web Developer
-- 🎓 Systems Engineering & Software Development Student
-- 🌎 Based in Bogotá, Colombia
-- 📚 Currently learning Cloud Computing, Laravel and Software Architecture
-- 🎯 Passionate about building modern web applications and business solutions
+```yaml
+Name: Edison Gómez
+
+Location: Bogotá, Colombia
+
+Role: Full Stack Web Developer
+
+Education: Systems Engineering & Software Development
+
+Focus:
+  - Web Applications
+  - Business Systems
+  - REST APIs
+  - Database Design
+
+Current Goal:
+  Build scalable software that solves real business problems.
+```
 
 ---
 
-# ⚡ Tech Stack
+# ⚙ Tech Stack
 
-<p align="center">
+### Backend
 
-<img src="https://skillicons.dev/icons?i=laravel,php,js,python,kotlin,html,css,mysql,git,github,vscode,bootstrap"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=laravel,php,python,java"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edison-Gomez&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Edison-Gomez&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edison-Gomez&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edison-Gomez&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Edison-Gomez&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🚀 Current Projects
 
-<p align="center">
+🚧 Building professional software solutions.
 
-<img src="https://streak-stats.demolab.com?user=Edison-Gomez&theme=github-dark&hide_border=true"/>
+Upcoming repositories:
 
-</p>
-
----
-
-# 🚀 Featured Projects
-
-Coming Soon...
-
-- 🌐 Portfolio Website
-- 🛒 Ecommerce Platform
-- 📦 Inventory Management System
-- 🏢 Business Landing Page
-- 🔐 Authentication System
-- 📊 Admin Dashboard
+- Portfolio Website
+- Inventory Management System
+- CRM System
+- Restaurant Management
+- E-Commerce Platform
+- REST API Laravel
+- Admin Dashboard
+- Authentication System
 
 ---
 
 # 🌱 Currently Learning
 
-- Laravel
-- REST APIs
-- React
-- Docker
-- Cloud Computing
-- Clean Architecture
+✔ Laravel Advanced
+
+✔ React
+
+✔ Docker
+
+✔ Cloud Computing
+
+✔ Software Architecture
+
+✔ Clean Code
+
+---
+
+# 🎯 Engineering Principles
+
+> Build software that is scalable.
+
+> Write code that is maintainable.
+
+> Design solutions focused on users.
+
+> Never stop learning.
 
 ---
 
@@ -82,13 +138,13 @@ Coming Soon...
 
 📧 **Email**
 
-> edisonsantiagogomezanzola@gmail.com
+gomez1ledison@gmail.com
 
-💼 **LinkedIn**
+💼 LinkedIn
 
 Coming Soon
 
-🌐 **Portfolio**
+🌐 Portfolio
 
 Coming Soon
 
@@ -96,6 +152,6 @@ Coming Soon
 
 <div align="center">
 
-### ⭐ "Code. Learn. Build. Improve."
+## Engineering the Future, One Line of Code at a Time.
 
 </div>
