@@ -110,5 +110,3 @@
 
 ✔ Clean Architecture
 
----
-
