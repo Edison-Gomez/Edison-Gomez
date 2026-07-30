@@ -1,60 +1,86 @@
+<!-- ========================= HEADER ========================= -->
+
 <div align="center">
 
-# Edison Santiago Gómez
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:161B22,100:2F81F7&text=EDISON%20GÓMEZ&fontColor=FFFFFF&fontSize=48&fontAlignY=40&desc=Software%20Engineering%20Student%20•%20Full%20Stack%20Web%20Developer&descAlignY=60"/>
 
-### Full Stack Web Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Laravel+Developer;Full+Stack+Developer;Always+Learning+New+Technologies" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=23&duration=3500&pause=1200&color=2F81F7&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Applications;Laravel+%7C+PHP+%7C+JavaScript;Backend+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🌐 Connect
+# 👨‍💻 Developer Profile
+
+```yaml
+Name: Edison Gómez
+
+Role: Full Stack Web Developer
+
+Location: Colombia 🇨🇴
+
+Current Focus:
+  - Laravel
+  - Backend Development
+  - REST APIs
+  - Clean Architecture
+```
+
+---
+
+# 🌐 Connect
 
 <p align="center">
 
-<a href="https://linkedin.com/in/TU-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:gomez1ledison@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://linkedin.com/in/TU-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
 
+<div align="center">
+
+### 📧 edisonsantiagogomezanzola@gmail.com
+
+</div>
+
 ---
 
-# 💻 Languages
+# ⚡ Core Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=php,js,python,java,kotlin,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=laravel,php,js,python,html,css,mysql"/>
 
 </p>
 
 ---
 
-# ⚙ Frameworks
+# 🛠 Development Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=laravel,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bootstrap"/>
 
 </p>
 
 ---
 
-# 🛠 Tools
+# 📚 Currently Learning
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=react,docker"/>
+
+</p>
+
+<p align="center">
+
+REST APIs • Cloud Computing • Software Architecture
 
 </p>
 
@@ -64,49 +90,51 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Edison-Gomez&show_icons=true&theme=transparent&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Edison-Gomez&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edison-Gomez&layout=compact&theme=transparent&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edison-Gomez&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Edison-Gomez&theme=github-dark&hide_border=true"/>
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=Edison-Gomez&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
----
-
-# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Edison-Gomez&theme=transparent&hide_border=true"/>
+<img width="55%" src="https://streak-stats.demolab.com?user=Edison-Gomez&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 Achievements
+# 🚀 Featured Projects
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Edison-Gomez&theme=algolia&no-frame=true&margin-w=15"/>
-
-</p>
+| Project | Description |
+|---------|-------------|
+| 🌐 Portfolio Website | Personal portfolio showcasing my work and skills |
+| 🛒 E-Commerce Platform | Complete online store with authentication and payments |
+| 📦 Inventory Management | Inventory and sales management system |
+| 📊 Admin Dashboard | Dashboard with charts and business metrics |
+| 🔐 Authentication API | Secure authentication with Laravel |
+| 🏢 Business Landing Page | Professional websites for companies |
 
 ---
 
-# 🚀 Current Focus
+# 💭 Philosophy
 
-✔ Laravel Development
+<div align="center">
 
-✔ REST APIs
+> **"I don't just write code. I build solutions that create value."**
 
-✔ Business Applications
+</div>
 
-✔ Cloud Computing
+---
 
-✔ Clean Architecture
+<div align="center">
 
+![](https://komarev.com/ghpvc/?username=Edison-Gomez&style=for-the-badge&color=blue)
+
+</div>
