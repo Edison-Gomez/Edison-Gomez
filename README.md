@@ -22,8 +22,6 @@ I'm a Software Engineering student in Bogotá, Colombia, building my path as a *
 
 Before moving into software, I worked hands-on with automation systems — network, audio, and video cabling, equipment programming, and preventive/corrective maintenance. That background gave me a practical, detail-oriented approach that I now bring to building software: I like understanding how things work end to end, not just writing code that runs.
 
-I'm currently deepening my skills in **Laravel, PHP, Python, React, and Docker**, while building real projects to grow my portfolio.
-
 <br>
 
 <div align="center">
@@ -36,7 +34,18 @@ I'm currently deepening my skills in **Laravel, PHP, Python, React, and Docker**
 
 <br>
 
-## Tech Stack
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2F81F7&height=2"/>
+
+## 🔭 Quick Facts
+
+- 🔭 Currently building my personal portfolio and web projects
+- 🌱 Currently deepening my skills in **Laravel, PHP, React, and Docker**
+- 💬 Ask me about **JavaScript, HTML/CSS, MySQL, or how I got into dev from an automation background**
+- 📫 Reach me at **edisonsantiagogomezanzola@gmail.com**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2F81F7&height=2"/>
+
+## 🛠️ Tech Stack
 
 **Languages**
 <br>
@@ -50,7 +59,7 @@ I'm currently deepening my skills in **Laravel, PHP, Python, React, and Docker**
 <br>
 <img src="https://skillicons.dev/icons?i=react,docker,aws&theme=dark"/>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2F81F7&height=2"/>
 
 ## 🧭 Experience
 
@@ -62,9 +71,18 @@ I'm currently deepening my skills in **Laravel, PHP, Python, React, and Docker**
 
 <!-- Sigmart: agregar aquí cargo, fechas y funciones -->
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2F81F7&height=2"/>
 
-## Featured Projects
+## 🎓 Education
+
+- **Technology in Software Development** — Escuela Tecnológica Instituto Técnico Central *(in progress)*
+- **Teamwork** — Universidad de los Andes
+- **Labor Agility** — Universidad de los Andes
+- **Cloud Analyst Basics (AWS)** — Universidad de los Andes
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2F81F7&height=2"/>
+
+## 🚀 Featured Projects
 
 | Project | Description | Status |
 |---|---|---|
@@ -72,9 +90,9 @@ I'm currently deepening my skills in **Laravel, PHP, Python, React, and Docker**
 | E-Commerce Platform | Full online shopping platform built with Laravel | Planned |
 | Authentication API | Secure REST authentication service | Planned |
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2F81F7&height=2"/>
 
-## 2026 Goals
+## 🎯 2026 Goals
 
 - Build a solid portfolio with real-world projects
 - Master Laravel and RESTful API development
