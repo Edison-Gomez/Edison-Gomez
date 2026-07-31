@@ -5,7 +5,7 @@
 <a href="https://github.com/Edison-Gomez">
 <img src="https://img.shields.io/badge/GitHub-Edison--Gomez-2F81F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="LINKEDIN_URL_AQUI">
+<a href="https://www.linkedin.com/in/edison-santiago-g%C3%B3mez-anzola-138245426/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:edisonsantiagogomezanzola@gmail.com">
