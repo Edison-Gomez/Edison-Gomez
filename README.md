@@ -16,19 +16,19 @@
 
 <br>
 
-## 👨‍💻 Programmer · Web & App Developer
+## 👨‍💻 Web Developer
 
-I'm a Software Engineering student in Bogotá, Colombia, building my path as a **Full Stack Web Developer**. I write code, build web applications, and I'm growing into app development too.
+I build web applications — from interactive front-ends to backend logic, databases, and APIs. I work with **Java, JavaScript, HTML, CSS, and Python**, and I'm sharpening my full-stack skills with **Laravel, PHP, and React**.
 
-Before moving into software, I worked hands-on with automation systems — network, audio, and video cabling, equipment programming, and preventive/corrective maintenance. That background gave me a practical, detail-oriented approach that I now bring to building software: I like understanding how things work end to end, not just writing code that runs.
+My path into software came through hands-on technical work: I've programmed, configured, and maintained automation and audiovisual systems in production environments, diagnosing hardware/software faults and delivering technical documentation. That's shaped how I approach code — practical, detail-oriented, and focused on things actually working end to end. I've also supported the onboarding of new technicians, helping them ramp up faster with fewer errors.
 
 <br>
 
 <div align="center">
 
-| 💻 Web Development | 📱 App Development | 🗄️ Backend & APIs |
+| 💻 Web Development | 🗄️ Backend & Databases | 🔧 Technical Diagnostics |
 |:---:|:---:|:---:|
-| Building responsive, modern web apps | Growing my skills in mobile/app development | Designing databases and RESTful APIs |
+| Building responsive, modern web apps | Designing databases and RESTful APIs | Hardware/software troubleshooting from real fieldwork |
 
 </div>
 
@@ -38,9 +38,9 @@ Before moving into software, I worked hands-on with automation systems — netwo
 
 ## 🔭 Quick Facts
 
-- 🔭 Currently building my personal portfolio and web projects
-- 🌱 Currently deepening my skills in **Laravel, PHP, React, and Docker**
-- 💬 Ask me about **JavaScript, HTML/CSS, MySQL, or how I got into dev from an automation background**
+- 🔭 Building web projects and growing my GitHub portfolio
+- 💬 Ask me about JavaScript, HTML/CSS, MySQL, or my path from field technician to developer
+- 🌐 Languages: Spanish (native), English
 - 📫 Reach me at **edisonsantiagogomezanzola@gmail.com**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2F81F7&height=2"/>
@@ -81,31 +81,26 @@ Before moving into software, I worked hands-on with automation systems — netwo
 
 ## 🎓 Education
 
-- **Technology in Software Development** — Escuela Tecnológica Instituto Técnico Central *(in progress)*
-- **Teamwork** — Universidad de los Andes
-- **Labor Agility** — Universidad de los Andes
-- **Cloud Analyst Basics (AWS)** — Universidad de los Andes
+- **Software Engineering (Systems & Software Development)** — Escuela Tecnológica Instituto Técnico Central *(6th semester, in progress)*
+- Cloud Analyst Basics (AWS) — Universidad de los Andes
+- Labor Agility — Universidad de los Andes
+- Teamwork — Universidad de los Andes
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2F81F7&height=2"/>
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-| Project | Description | Status |
-|---|---|---|
-| Portfolio Website | Personal portfolio showcasing my work | In Progress |
-| E-Commerce Platform | Full online shopping platform built with Laravel | Planned |
-| Authentication API | Secure REST authentication service | Planned |
+<div align="center">
+
+<a href="https://github.com/Edison-Gomez">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=Edison-Gomez&repo=REPLACE_WITH_REPO&theme=dark&title_color=2F81F7&text_color=c9d1d9&bg_color=0D1117"/>
+</a>
+
+</div>
+
+*(Replace `REPLACE_WITH_REPO` above with your repo name once it's public — this pins it directly on your profile.)*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2F81F7&height=2"/>
-
-## 🎯 2026 Goals
-
-- Build a solid portfolio with real-world projects
-- Master Laravel and RESTful API development
-- Get comfortable with Docker and cloud deployment
-- Land my first role as a Full Stack Developer
-
-<br>
 
 <div align="center">
 
