@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20,24&text=Edison%20Gómez&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Edison%20Gómez&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=58&animation=fadeIn"/>
 
 <a href="https://github.com/Edison-Gomez">
 <img src="https://img.shields.io/badge/GitHub-Edison--Gomez-2F81F7?style=for-the-badge&logo=github&logoColor=white"/>
@@ -108,6 +108,6 @@ My path into software came through hands-on technical work: I've programmed, con
 
 📧 **edisonsantiagogomezanzola@gmail.com**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:2F81F7&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=100&section=footer"/>
 
 </div>
