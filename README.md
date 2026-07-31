@@ -49,7 +49,7 @@ Before moving into software, I worked hands-on with automation systems — netwo
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=java,js,python,php,html,css,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,js,python,cpp,php,html,css,mysql&theme=dark"/>
 
 **Frameworks & Tools**
 <br>
@@ -63,13 +63,19 @@ Before moving into software, I worked hands-on with automation systems — netwo
 
 ## 🧭 Experience
 
-**Automation Maintenance & Installation Assistant** — Conecta SAS *(Feb 2024 – Nov 2024)*
-- Installed and configured automation equipment
-- Performed preventive and corrective maintenance on installed systems
-- Ran network, audio, and video cabling
-- Programmed and configured equipment operation
+**Automation Technician (Maintenance, Installation & Programming)** — Sigmart ING *(Aug 2025 – Present)*
+- Programming and maintenance of automation and control equipment (Crestron, Hikvision, Unilumin)
+- Preventive and corrective maintenance on electronic equipment and modular LED panel displays
+- Diagnosis and repair of faults in audiovisual systems
+- Installation, configuration, and commissioning of audio and video systems
+- Structured cabling and technical equipment adjustments
+- On-site technical support and system verification
 
-<!-- Sigmart: agregar aquí cargo, fechas y funciones -->
+**Automation Maintenance & Installation Technician** — Conecta SAS *(Feb 2024 – Dec 2024)*
+- Installed and commissioned automation equipment
+- Performed preventive and corrective maintenance on automation systems
+- Structured cabling for data networks, audio, and video systems
+- Diagnosed hardware/software faults and supported technical documentation
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2F81F7&height=2"/>
 
