@@ -40,7 +40,6 @@ My path into software came through hands-on technical work: I've programmed, con
 
 - 🔭 Building web projects and growing my GitHub portfolio
 - 💬 Ask me about JavaScript, HTML/CSS, MySQL, or my path from field technician to developer
-- 🌐 Languages: Spanish (native), English
 - 📫 Reach me at **edisonsantiagogomezanzola@gmail.com**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2F81F7&height=2"/>
